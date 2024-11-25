@@ -43,8 +43,8 @@ My name is Dulguun Soyol-Erdene. Here is a little bit about me.
   - CSCI 345 - Computers and Society
 
 ### **Projects:**  
-  - [Citation reader code]([url](https://github.com/dulguunsoyol-erdene/PDFcitation_reader)
-  - [Reunion attendance predictor code]([url](https://github.com/dulguunsoyol-erdene/ReunionPredictions_Project)
+  - [Citation reader code](https://github.com/dulguunsoyol-erdene/PDFcitation_reader)
+  - [Reunion attendance predictor code](https://github.com/dulguunsoyol-erdene/ReunionPredictions_Project)
 
 ##
  
