@@ -42,7 +42,7 @@ My name is Dulguun Soyol-Erdene. Here is a little bit about me.
   - CSCI 204 - Data Structures & Algorithms
   - CSCI 345 - Computers and Society
 
-**Projects:**  
+### **Projects:**  
   - Citation reader code
   - 
   - Reunion attendance predictor code
@@ -52,6 +52,4 @@ My name is Dulguun Soyol-Erdene. Here is a little bit about me.
 ##
  
 **GitHub:** dulguunsoyol-erdene
-
--
 
