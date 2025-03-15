@@ -33,7 +33,6 @@ My name is Dulguun Soyol-Erdene. Here is a little bit about me.
 ### **Courses I have taken:**  
   **Data analysis and Business operations courses:**
   - ANOP 102 - Spreadsheet Modeling & Data Analysis
-  - ANOP 202 - Operations Management
   - ANOP 270 - Data Visualization for Business Analytics
   - ANOP 330 - Predictive Analytics: Machine Learning Fundamentals for Business
 
@@ -43,6 +42,7 @@ My name is Dulguun Soyol-Erdene. Here is a little bit about me.
   - CSCI 345 - Computers and Society
 
 ### **Projects:**  
+  - [ChatGPT Response Recorder](https://github.com/dulguunsoyol-erdene/ChatGPT_Response_Recorder)
   - [Citation reader code](https://github.com/dulguunsoyol-erdene/PDFcitation_reader)
   - [Reunion attendance predictor code](https://github.com/dulguunsoyol-erdene/ReunionPredictions_Project)
 
