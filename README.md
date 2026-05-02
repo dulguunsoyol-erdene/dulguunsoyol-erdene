@@ -32,18 +32,18 @@ My name is Dulguun Soyol-Erdene. Here is a little bit about me.
 
 ### **Courses I have taken:**  
   **Data analysis and Business operations courses:**
-  - ANOP 102 - Spreadsheet Modeling & Data Analysis
   - ANOP 270 - Data Visualization for Business Analytics
   - ANOP 330 - Predictive Analytics: Machine Learning Fundamentals for Business
+  - ANOP 310 - Independent Study: Big Data Scalability Research
 
   **Computer Science and Coding courses:**
-  - CSCI 203 - Introduction to Computer Science
   - CSCI 204 - Data Structures & Algorithms
   - CSCI 345 - Computers and Society
+  - CSCI 378 - Independent Study: Local Language AI Development
 
 ### **Projects:**  
-  - [ChatGPT Response Recorder](https://github.com/dulguunsoyol-erdene/ChatGPT_Response_Recorder)
-  - [Citation reader code](https://github.com/dulguunsoyol-erdene/PDFcitation_reader)
+  - [Big Data Scalability Research](https://github.com/dulguunsoyol-erdene/BigData_Scalability_Project)
+  - [Local AI Development: Data efficiency](https://github.com/dulguunsoyol-erdene/LocalAI_Efficiency_Project)
   - [Reunion attendance predictor code](https://github.com/dulguunsoyol-erdene/ReunionPredictions_Project)
 
 ##
