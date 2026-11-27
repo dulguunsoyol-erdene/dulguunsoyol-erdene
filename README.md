@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 My name is Dulguun Soyol-Erdene. Here is a little bit about me.
 
-**Technical Skills:** Python, Machine Learning, Data analysis, Data visualization, Document preparation, JupiterLabs, Microsoft Office, Google Workspace
+**Technical Skills:** Python, Machine Learning, Data analysis, Data visualization, Document preparation, JupiterLabs, Microsoft Office, Google Workspace, SQL, Big data, Apache Spark
 
 ### **Field of Study / Major & Minor:**
 - Business Analytics Major
@@ -27,6 +27,7 @@ My name is Dulguun Soyol-Erdene. Here is a little bit about me.
 
 ### **Interests:**  
   - Data analytics and operations
+  - Information security and ethics
   - Business and Finance
   - AI and machine learning
 
